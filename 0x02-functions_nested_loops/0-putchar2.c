@@ -14,7 +14,7 @@ _putchar(str[i]);
 	{
 		_putchar(str[i]);
 	}
-	_putchar('\n');
+		_putchar('\n');
 	return (0);
 }
 _putchar('\n');
