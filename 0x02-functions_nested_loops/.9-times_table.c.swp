@@ -1,0 +1,7 @@
+b0VIM 8.1               ｯ   root                                    cffa52cd1949                            /alx-low_level_programming/0x02-functions_nested_loops/9- 
+              ・  ・  ・  ｮ   ｪ   ・  ・  ・  ・  h   e   J   F   8   )   $              ・  ・  ﾖ 
+  ﾃ 
+  ｰ 
+  ・  ・  } 
+  u 
+				_putchar(k + '0'); 				_putchar(' '); 				_putchar(' '); 				_putchar(','); 			{ 			if (k < 10 && j != 0)  			} 				_putchar(k + '0'); 			{ 			if (j == 0) 			k = j * i; 		{ 		for (j = 0; j < 10; j++) 	{ 	for (i = 0; i < 10; i++)  	int i, j, k; { void times_table(void)  */  * times_table - prints the 9 times table, starting with 0 /**  #include "main.h" 
