@@ -1,10 +1,10 @@
-#AOAinclude "lists.h"
+#include "lists.h"
 
 /**
- * insert_nodeint_at_index - for inserting a new node
+ * insert_nodeint_at_index - inserts a new node
  * at a given position.
- * @head: this is the head of a list.
- * @idx: this is the index of the list where the new node is
+ * @head: head of a list.
+ * @idx: index of the list where the new node is
  * added.
  * @n: integer element.
  *
